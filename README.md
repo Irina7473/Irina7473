@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<h1 align="center">Hi there, I'm Irina</h1> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm C# Developer</h3>
+
 
 <!--
 **Irina7473/Irina7473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
