@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Irina</h1> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm C# Developer</h3>
+<img src="G:/img1.jpg" height="32"/></h1>
+<h3 align="left">I'm C# Developer</h3>
 
 
 <!--
